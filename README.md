@@ -1,7 +1,7 @@
 # Aganitha Mini-Project Report
-Aremanda Sri Sai Suhruth
-IMT2018012
-IIIT-B
+            Aremanda Sri Sai Suhruth
+            IMT2018012
+            IIIT Bangalore
 # Introduction
 The aim of this mini project is to deploy Jupyter and Postgresql docker containers in the cloud to explore and draw inferences of any dataset.
 # Installation and Configuration
@@ -67,3 +67,4 @@ The aim of this mini project is to deploy Jupyter and Postgresql docker containe
 2. Enter the token saved before to login
 3. Create a new python notebook.
 4. Write SQL queries and execute the notebook.
+5. All the queries are present in Notebook.ipynb, which is present in this repository.
